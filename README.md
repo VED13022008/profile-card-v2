@@ -10,7 +10,7 @@ I love building clean, responsive UIs and exploring how design and tech come tog
 - Git & GitHub
 
 ## 📌 Projects
-- Profile Card V2 – Personal branding project (in progress)
+- [Profile Card V2 – Live Demo 🚀](https://ved13022008.github.io/profile-card-v2/)
 - GitHub README – This profile you're viewing right now 👀
 
 ## 🧠 Currently Working On
@@ -21,3 +21,4 @@ I love building clean, responsive UIs and exploring how design and tech come tog
 ## 📫 Connect with Me
 - Email: [devsirohi578@gmail.com](mailto:devsirohi578@gmail.com)
 - LinkedIn: [https://linkedin.com/in/dev-sirohi-b95350374](https://linkedin.com/in/dev-sirohi-b95350374)
+
